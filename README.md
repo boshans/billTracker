@@ -6,12 +6,6 @@ Built with Python and Tkinter. Packaged as an installer using Inno Setup.
 
 ---
 
-## 🖼️ Preview
-
-![Bill Tracker Screenshot](preview.png)
-
----
-
 ## 📦 Features
 
 - ✅ Add and remove bill entries dynamically
